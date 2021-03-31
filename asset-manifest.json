@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-with-firebase/static/css/main.230a5fa8.chunk.css",
+    "main.js": "/react-with-firebase/static/js/main.d43e92ef.chunk.js",
+    "main.js.map": "/react-with-firebase/static/js/main.d43e92ef.chunk.js.map",
+    "runtime-main.js": "/react-with-firebase/static/js/runtime-main.73eb4f97.js",
+    "runtime-main.js.map": "/react-with-firebase/static/js/runtime-main.73eb4f97.js.map",
+    "static/js/2.a740f9b6.chunk.js": "/react-with-firebase/static/js/2.a740f9b6.chunk.js",
+    "static/js/2.a740f9b6.chunk.js.map": "/react-with-firebase/static/js/2.a740f9b6.chunk.js.map",
+    "static/js/3.1f4f3c08.chunk.js": "/react-with-firebase/static/js/3.1f4f3c08.chunk.js",
+    "static/js/3.1f4f3c08.chunk.js.map": "/react-with-firebase/static/js/3.1f4f3c08.chunk.js.map",
+    "index.html": "/react-with-firebase/index.html",
+    "static/css/main.230a5fa8.chunk.css.map": "/react-with-firebase/static/css/main.230a5fa8.chunk.css.map",
+    "static/js/2.a740f9b6.chunk.js.LICENSE.txt": "/react-with-firebase/static/js/2.a740f9b6.chunk.js.LICENSE.txt",
+    "static/media/surfing.29106177.png": "/react-with-firebase/static/media/surfing.29106177.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73eb4f97.js",
+    "static/js/2.a740f9b6.chunk.js",
+    "static/css/main.230a5fa8.chunk.css",
+    "static/js/main.d43e92ef.chunk.js"
+  ]
+}
